@@ -1,0 +1,14 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ÁÚ÷J$46ec43c9-b15f-47e5-8bd3-29617478f1db
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôéöÓJ$f383d79a-841a-4da2-9482-64696479ea38
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ùÕJ$c2bca1bc-da2e-4ffa-9d20-5c3bbd1e4d1d
+{
+java:S1659"?Declare "xB" and all following declarations on a separate line.(Çú‚¦J$9e7a1f0e-6745-4280-820d-71ff465f6429
+e	java:S106"+Replace this use of System.out by a logger.(¹¬ÕwJ$ead86ced-b5bc-4ec4-b442-ad38538c1b81
+k	java:S106"+Replace this use of System.out by a logger.(šøÅøÿÿÿÿJ$d5545324-2e90-4c14-8493-6761cc65e9e0
+f	java:S106"+Replace this use of System.out by a logger.(Ìú‡J$6878d521-db6e-4481-bfca-051200fcf3a7
+k	java:S106"+Replace this use of System.out by a logger.(¦ÌØùÿÿÿÿJ$93477ba9-448a-4158-b9a7-eb5728802443
+f	java:S106""+Replace this use of System.out by a logger.(ñªÃàJ$5ac21d4c-3940-40e2-bb44-ccee2d4c3072
+e	java:S106$"+Replace this use of System.out by a logger.(î¬ìtJ$eb55bba3-6ee0-4189-a575-020760e6276c
+]
+java:S1116("Remove this empty statement.(ôŸìúÿÿÿÿJ$337d40e3-bc9a-4bb4-86c8-046bc64421ec

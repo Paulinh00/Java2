@@ -1,0 +1,26 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÿ„‡J$df13145b-58b6-45b1-a6cf-fc70fc840928
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀíÀ»úÿÿÿÿJ$41d022a3-dadf-4254-b966-d8f5847fed3f
+f	java:S106"+Replace this use of System.out by a logger.(îÇô¤J$65224c31-cbd4-4526-abc1-69f754f949f2
+k	java:S106"+Replace this use of System.out by a logger.(©îäíÿÿÿÿÿJ$f57ac389-885e-42ec-bb7e-043233535da3
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‚¾ıûJ$25930c20-3244-4a8e-9774-6851327a38cd
+f	java:S106"+Replace this use of System.out by a logger.(‚¾ıûJ$89529ee7-9ecf-47e8-a8fd-5dc49cfc3f04
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ñ¥×‹J$570462fa-1e26-47c1-967a-47010b9e4add
+f	java:S106"+Replace this use of System.out by a logger.(Ñ¥×‹J$6d271f52-9daf-4233-bc62-a57c582e588f
+’
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ïı¶ğúÿÿÿÿJ$1f46d5d1-8237-41e6-bff4-b84329e896f7
+k	java:S106"+Replace this use of System.out by a logger.(ïı¶ğúÿÿÿÿJ$4e9fe9d1-ea1d-4ccd-b050-5fa398e5455b
+’
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‡ÁÍ£ÿÿÿÿÿJ$b08ba455-f99c-4a17-9a22-38b5a00f890f
+k	java:S106"+Replace this use of System.out by a logger.(‡ÁÍ£ÿÿÿÿÿJ$043a0215-dfb4-4df8-bf47-83ab6a5d6245
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(áÑï¶J$7c5dd51a-1304-4d24-8f59-9f790c2e3fce
+f	java:S106"+Replace this use of System.out by a logger.(áÑï¶J$ee88fff1-ea03-483f-98b5-01ae84ba6763
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(áÑï¶J$f041899a-e130-4f68-809b-f039105d565e
+f	java:S106"+Replace this use of System.out by a logger.(áÑï¶J$c5cb950f-6d3b-424e-a3d0-3d2e477117a3
+
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(äÑààJ$8bb483f0-141b-4923-89da-b8e1d8c21144
+f	java:S106"+Replace this use of System.out by a logger.(äÑààJ$fea77f10-b149-4ac3-a0b0-eaff46e22ae2
