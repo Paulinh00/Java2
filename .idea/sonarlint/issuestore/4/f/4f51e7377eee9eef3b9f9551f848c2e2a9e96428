@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“¾Š­úÿÿÿÿJ$d4413c92-c091-4a19-b3ed-9b7f9b49adbd
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¬…áJ$cf53e851-7b79-4ab7-81ee-fa19ecee7614
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡úJ$52e432c0-7539-45d2-a66a-6926299f146a
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¸ßëıÿÿÿÿJ$7c6c0851-f17a-4d21-a53b-6f32d251e8a9
+f	java:S106"+Replace this use of System.out by a logger.(€ª‚ĞJ$0cafd0d9-7afa-4a80-991c-f08dd42ec57a
+f	java:S106"+Replace this use of System.out by a logger.(â·èñJ$a56945e6-0de7-460b-b927-16e9aea4b238
+f	java:S106"+Replace this use of System.out by a logger.(æò˜ÛJ$5f5e55dd-ac9f-4f35-b413-3b9ac3f067c5
+n
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿJ$999b2a93-74aa-4b6e-9dc4-6d472866617e

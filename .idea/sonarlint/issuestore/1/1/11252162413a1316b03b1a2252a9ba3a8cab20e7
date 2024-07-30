@@ -1,0 +1,22 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç»Û
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀíÀ»úÿÿÿÿ
+t
+java:S1192"^Define a constant instead of duplicating this literal "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=" 3 times.(îÇô¤
+@	java:S106"+Replace this use of System.out by a logger.(îÇô¤
+V	java:S125"<This block of commented-out lines of code should be removed.(÷ü€§ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ŸíÑ˜úÿÿÿÿ
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(·®ñµ
+Q	java:S125"<This block of commented-out lines of code should be removed.(±ÝÊ²
+@	java:S106"+Replace this use of System.out by a logger.(îÇô¤
+Q	java:S125"<This block of commented-out lines of code should be removed.(¼û¶
+Q	java:S125"<This block of commented-out lines of code should be removed.(¾˜ï
+P	java:S125"<This block of commented-out lines of code should be removed.(©Þº
+V	java:S125"<This block of commented-out lines of code should be removed.(¥ÙÕùÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(îÇô¤
+P	java:S125"<This block of commented-out lines of code should be removed.(ûàö
+V	java:S125"<This block of commented-out lines of code should be removed.(Žáã ýÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(Ó¤¦üÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(‘öŠ±
+E	java:S106,"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ

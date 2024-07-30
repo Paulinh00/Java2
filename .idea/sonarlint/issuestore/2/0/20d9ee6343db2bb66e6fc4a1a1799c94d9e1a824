@@ -1,8 +1,8 @@
 
-i
-java:S1192"NDefine a constant instead of duplicating this literal "Voce digitou:" 3 times.(œÁ½œşÿÿÿÿ
 g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àÄğ‰ûÿÿÿÿ
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀíÀ»úÿÿÿÿ
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Voce digitou:" 3 times.(œÁ½œşÿÿÿÿ
 @	java:S106"+Replace this use of System.out by a logger.(¼œé„
 E	java:S106"+Replace this use of System.out by a logger.(œÁ½œşÿÿÿÿ
 @	java:S106"+Replace this use of System.out by a logger.(óŒù

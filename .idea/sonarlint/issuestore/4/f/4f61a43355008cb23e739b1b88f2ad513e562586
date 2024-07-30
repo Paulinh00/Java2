@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öšÔ—8»¹‰…2J$f3b2729a-071f-4f7a-8089-f7b21d0a0c98
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î—„íüÿÿÿÿ8»¹‰…2J$f0be2f19-134c-4204-9b3d-e7aec13fe0cb
+“
+java:S1104"PMake nome a static final constant or non-public and provide accessors if needed.(µ©Ñ¸8»¹‰…2J$12de4559-2d54-4fd3-9305-d4da1953af2f
+ 
+java:S1104"XMake salario_base a static final constant or non-public and provide accessors if needed.(èÙ‘ìûÿÿÿÿ8»¹‰…2J$afcf2bed-860f-45d9-aeb6-3957f1ad94f3
+“
+java:S1104"PMake taxa a static final constant or non-public and provide accessors if needed.(ŒˆÁ¾8»¹‰…2J$6e79f439-ab0b-4d78-b1e3-e34d0d2cd444
+›
+java:S1104"SMake aumento a static final constant or non-public and provide accessors if needed.(ºÀ‰›şÿÿÿÿ8»¹‰…2J$25d56afc-4be9-4d88-a53c-e3c8d2d9bcd4
+	java:S116"WRename this field "salario_base" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÙ‘ìûÿÿÿÿ8»¹‰…2J$665e98d9-4d77-48a3-adf7-5c570344d0c9
+•	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çš¿Šúÿÿÿÿ8¼¹‰…2J$5111f391-dfac-4070-82d1-4ce725e7e291

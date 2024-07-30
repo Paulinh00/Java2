@@ -1,0 +1,22 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸Ù´øÿÿÿÿJ$dcec21ae-c543-4ce5-a77b-09cb8cae095e
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿòêËJ$afa8f4f4-10a9-4dbd-b7fe-6730ec64e9ac
+y
+java:S1854"8Remove this useless assignment to local variable "cod2".(ÊøÌşÿÿÿÿÿJ$2f1636a8-70f9-4e87-a637-c586449353d8
+t
+java:S1854"8Remove this useless assignment to local variable "cod1".(İ…½‘J$fe1f81c5-0cd7-4d23-8712-b00df60bbdb0
+‚
+java:S1659"ADeclare "cod2" and all following declarations on a separate line.(Ú°¤ÿÿÿÿÿJ$9c9442b4-a030-4224-858f-9acc49a89bb3
+
+java:S1659"CDeclare "preco2" and all following declarations on a separate line.(ÑğÌ±J$5dcb4ab1-00c2-4784-95e5-d90d1ea00d8a
+j
+java:S1481")Remove this unused "cod1" local variable.(Ú°¤ÿÿÿÿÿJ$011da0e4-451d-4316-9cbe-c865dff271cb
+j
+java:S1481")Remove this unused "cod2" local variable.(Ú°¤ÿÿÿÿÿJ$9daf594e-a380-4b38-9797-9b94837b1514
+k	java:S106"+Replace this use of System.out by a logger.(§òæ‰ÿÿÿÿÿJ$7e7f2e48-8d34-402a-8dbf-c0759b5cbb7e
+f	java:S106"+Replace this use of System.out by a logger.(ÒÎÏ¦J$d3612576-7450-4440-adc3-064306bc68e8
+k	java:S106"+Replace this use of System.out by a logger.(ÿñßüÿÿÿÿJ$4838eaa0-4447-4150-8e6c-c5dbeb8b0a04
+e	java:S106"+Replace this use of System.out by a logger.(–ªé~J$bd1b148b-80c4-47b0-9967-1d28f687cfed
+f	java:S106"+Replace this use of System.out by a logger.(ÒÎÏ¦J$925f9c9b-be65-4c82-b1c6-75dcc080fefa
+f	java:S106"+Replace this use of System.out by a logger.(ñú»øJ$6905e6fa-aec9-4611-86fc-c3572034c45b
+k	java:S106 "+Replace this use of System.out by a logger.(–¦íòúÿÿÿÿJ$38f395b9-169d-4d32-a8e7-e934fe197a8d

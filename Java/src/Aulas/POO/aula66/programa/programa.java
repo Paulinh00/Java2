@@ -19,8 +19,25 @@ public class programa {
         System.out.print("Qual a quantidade no stock: ");
         produtos.quantidade = sc.nextInt();
 
-        System.out.println(produtos.name + "," + produtos.preco + "," + produtos.quantidade);
 
+        System.out.println();
+        System.out.println("Produtos data: " + produtos);
+
+        System.out.println();
+        System.out.printf("Entre com o numero de produtos que quer adicionar ao estoque:");
+        int quantidade = sc.nextInt();
+        produtos.addProducts(quantidade);
+
+        System.out.println();
+        System.out.println("Produtos  data atualizados: " + produtos);
+
+        System.out.println();
+        System.out.printf("Entre com o numero de produtos que quer remover do estoque:");
+        quantidade = sc.nextInt();
+        produtos.removeProducts(quantidade);
+
+        System.out.println();
+        System.out.println("Produtos  data atualizados: " + produtos);
 
 
         sc.close();
